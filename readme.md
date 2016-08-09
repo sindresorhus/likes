@@ -9,3 +9,6 @@
 
 ### August 9, 2016
 - [Fast and Accurate Document Detection for Scanning | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2016/08/fast-and-accurate-document-detection-for-scanning/) 
+
+### August 10, 2016
+- [Large Diffs Are Hurting Your Ability To Ship — Medium](https://medium.com/@kurtisnusbaum/large-diffs-are-hurting-your-ability-to-ship-e0b2b41e8acf#.jf8frdg93) 
