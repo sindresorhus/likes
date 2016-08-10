@@ -12,3 +12,6 @@
 
 ### August 10, 2016
 - [Large Diffs Are Hurting Your Ability To Ship — Medium](https://medium.com/@kurtisnusbaum/large-diffs-are-hurting-your-ability-to-ship-e0b2b41e8acf#.jf8frdg93) 
+
+### August 11, 2016
+- [Stranger Things’ score is a gateway into synthwave · For Our Consideration · The A.V. Club](http://www.avclub.com/article/stranger-things-score-gateway-synthwave-240466) 
