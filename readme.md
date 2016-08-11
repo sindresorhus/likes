@@ -16,3 +16,4 @@
 ### August 11, 2016
 - [Stranger Things’ score is a gateway into synthwave · For Our Consideration · The A.V. Club](http://www.avclub.com/article/stranger-things-score-gateway-synthwave-240466) 
 - [Testing the Bejeezus out of React Native Apps with AVA — Red Shift](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3#.7la01o2s9) 
+- [Zero-cost futures in Rust · Aaron Turon](http://aturon.github.io/blog/2016/08/11/futures/) 
