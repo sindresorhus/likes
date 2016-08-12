@@ -20,3 +20,6 @@
 
 ### August 12, 2016
 - [What Happened Before History? Human Origins - YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) 
+
+### August 13, 2016
+- [Genetic Engineering Will Change Everything Forever – CRISPR - YouTube](https://www.youtube.com/watch?v=jAhjPd4uNFY) 
