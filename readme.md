@@ -23,3 +23,6 @@
 
 ### August 13, 2016
 - [Genetic Engineering Will Change Everything Forever – CRISPR - YouTube](https://www.youtube.com/watch?v=jAhjPd4uNFY) 
+
+### August 15, 2016
+- [Answer to What is it like to understand advanced mathematics? - Quora](https://www.quora.com/What-is-it-like-to-understand-advanced-mathematics/answers/873950?srid=p6KQ&amp;share=1) 
