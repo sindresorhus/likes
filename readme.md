@@ -30,3 +30,4 @@
 
 ### August 17, 2016
 - [Shape of errors to come - The Rust Programming Language Blog](https://blog.rust-lang.org/2016/08/10/Shape-of-errors-to-come.html) 
+- [Behind the Scenes of iOS Security - YouTube](https://www.youtube.com/watch?v=BLGFriOKz6U) 
