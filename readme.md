@@ -27,3 +27,6 @@
 ### August 15, 2016
 - [Answer to What is it like to understand advanced mathematics? - Quora](https://www.quora.com/What-is-it-like-to-understand-advanced-mathematics/answers/873950?srid=p6KQ&amp;share=1) 
 - [Journey to HTTP/2 · @kamran](http://kamranahmed.info/blog/2016/08/13/http-in-depth/) 
+
+### August 17, 2016
+- [Shape of errors to come - The Rust Programming Language Blog](https://blog.rust-lang.org/2016/08/10/Shape-of-errors-to-come.html) 
