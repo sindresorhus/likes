@@ -31,3 +31,6 @@
 ### August 17, 2016
 - [Shape of errors to come - The Rust Programming Language Blog](https://blog.rust-lang.org/2016/08/10/Shape-of-errors-to-come.html) 
 - [Behind the Scenes of iOS Security - YouTube](https://www.youtube.com/watch?v=BLGFriOKz6U) 
+
+### August 19, 2016
+- [All Olympic Logos, Ordered By Quality — Mike Industries](https://medium.mikeindustries.com/all-olympic-logos-ordered-by-quality-965e1cc7d0cb#.faq1p9c8o) 
