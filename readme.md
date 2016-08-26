@@ -34,3 +34,6 @@
 
 ### August 19, 2016
 - [All Olympic Logos, Ordered By Quality — Mike Industries](https://medium.mikeindustries.com/all-olympic-logos-ordered-by-quality-965e1cc7d0cb#.faq1p9c8o) 
+
+### August 27, 2016
+- [A Few Thoughts on Cryptographic Engineering: Is Apple's Cloud Key Vault a crypto backdoor?](http://blog.cryptographyengineering.com/2016/08/is-apples-cloud-key-vault-crypto.html?m=1) 
