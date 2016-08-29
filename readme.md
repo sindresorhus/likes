@@ -37,3 +37,6 @@
 
 ### August 27, 2016
 - [A Few Thoughts on Cryptographic Engineering: Is Apple's Cloud Key Vault a crypto backdoor?](http://blog.cryptographyengineering.com/2016/08/is-apples-cloud-key-vault-crypto.html?m=1) 
+
+### August 30, 2016
+- [thejameskyle/itsy-bitsy-data-structures: All the things you didn't know you wanted to know about data structures](https://github.com/thejameskyle/itsy-bitsy-data-structures) 
