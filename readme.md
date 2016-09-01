@@ -40,3 +40,6 @@
 
 ### August 30, 2016
 - [thejameskyle/itsy-bitsy-data-structures: All the things you didn't know you wanted to know about data structures](https://github.com/thejameskyle/itsy-bitsy-data-structures) 
+
+### September 1, 2016
+- [Smaller and faster data compression with Zstandard | Engineering Blog | Facebook Code](https://code.facebook.com/posts/1658392934479273/smaller-and-faster-data-compression-with-zstandard/) 
