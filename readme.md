@@ -43,3 +43,6 @@
 
 ### September 1, 2016
 - [Smaller and faster data compression with Zstandard | Engineering Blog | Facebook Code](https://code.facebook.com/posts/1658392934479273/smaller-and-faster-data-compression-with-zstandard/) 
+
+### September 2, 2016
+- [AOMedia Video 1 - Wikipedia, the free encyclopedia](https://en.m.wikipedia.org/wiki/AOMedia_Video_1) 
