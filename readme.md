@@ -46,3 +46,6 @@
 
 ### September 2, 2016
 - [AOMedia Video 1 - Wikipedia, the free encyclopedia](https://en.m.wikipedia.org/wiki/AOMedia_Video_1) 
+
+### November 5, 2016
+- [Musk’s Mars moment: Audacity, madness, brilliance—or maybe all three | Ars Technica](http://arstechnica.com/science/2016/09/musks-mars-moment-audacity-madness-brilliance-or-maybe-all-three/) 
