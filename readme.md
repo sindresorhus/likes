@@ -50,3 +50,6 @@
 ### November 5, 2016
 - [Musk’s Mars moment: Audacity, madness, brilliance—or maybe all three | Ars Technica](http://arstechnica.com/science/2016/09/musks-mars-moment-audacity-madness-brilliance-or-maybe-all-three/) 
 - [DOOM (2016) - Graphics Study - Adrian Courrèges](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/) 
+
+### November 6, 2016
+- [Buttery Smooth Emacs](https://www.facebook.com/notes/daniel-colascione/buttery-smooth-emacs/10155313440066102/) 
