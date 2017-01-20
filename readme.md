@@ -56,3 +56,4 @@
 
 ### January 20, 2017
 - [Medium: Fast Source Map Generation for React Native – Medium](https://medium.com/@david.aurelio/medium-fast-source-map-generation-for-react-native-ea5549007c18#.xskx4yp0y) 
+- [GitHub’s post-CSP journey - GitHub Engineering](https://githubengineering.com/githubs-post-csp-journey/) 
