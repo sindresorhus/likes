@@ -53,3 +53,6 @@
 
 ### November 6, 2016
 - [Buttery Smooth Emacs](https://www.facebook.com/notes/daniel-colascione/buttery-smooth-emacs/10155313440066102/) 
+
+### January 20, 2017
+- [Medium: Fast Source Map Generation for React Native – Medium](https://medium.com/@david.aurelio/medium-fast-source-map-generation-for-react-native-ea5549007c18#.xskx4yp0y) 
