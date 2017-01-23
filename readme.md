@@ -60,3 +60,6 @@
 
 ### January 21, 2017
 - [A Trip Down The LoL Graphics Pipeline | Riot Games Engineering](https://engineering.riotgames.com/news/trip-down-lol-graphics-pipeline) 
+
+### January 23, 2017
+- [Delete an inline function, save 794 kB | Random ASCII](https://randomascii.wordpress.com/2017/01/22/delete-an-inline-function-save-794-kb/) 
