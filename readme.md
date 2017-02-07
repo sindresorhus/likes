@@ -63,3 +63,6 @@
 
 ### January 23, 2017
 - [Delete an inline function, save 794 kB | Random ASCII](https://randomascii.wordpress.com/2017/01/22/delete-an-inline-function-save-794-kb/) 
+
+### February 7, 2017
+- [Ground Control to Major Tom: How NASA Uses Node.js – Medium](https://medium.com/@nodejs/ground-control-to-major-tom-how-nasa-uses-node-js-8d011e167436#.c7wxj4gai) 
